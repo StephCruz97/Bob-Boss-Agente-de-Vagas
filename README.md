@@ -27,7 +27,7 @@ bob_boss.py: O "cérebro" do agente.<br>
 Como Engenheira Civil, entendo que a tecnologia é uma ferramenta de produtividade. Este projeto não é sobre "saber programar", mas sobre saber orquestrar a tecnologia disponível para extrair valor, reduzir desperdício de tempo e focar em decisões baseadas em dados.<br>
 <br>
 ✅ Demonstração<br>
-<br><br><br>
+<br>
 <br>
 [Python + SerpApi]<br><br>
 <img width="1349" height="1010" alt="Python + SerpApi" src="https://github.com/user-attachments/assets/4df7848f-bbde-4f1f-886a-4284076470c1" />
