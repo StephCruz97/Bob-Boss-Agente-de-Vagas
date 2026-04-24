@@ -29,18 +29,27 @@ Como Engenheira Civil, entendo que a tecnologia é uma ferramenta de produtivida
 ✅ Demonstração
 
 <img width="1349" height="1010" alt="Python + SerpApi" src="https://github.com/user-attachments/assets/4df7848f-bbde-4f1f-886a-4284076470c1" />
+<br>
 [Python + SerpApi]
-
+<br>
+<br>
 <img width="454" height="140" alt="Execução no Terminal" src="https://github.com/user-attachments/assets/791c9d85-33b0-4a30-af86-4e030b20be86" />
+<br>
 [Terminal em Execução]
-
+<br>
+<br>
 <img width="720" height="629" alt="Bob Boss criado" src="https://github.com/user-attachments/assets/6024ecef-c073-4d78-ab05-34e68e7fb2fc" />
+<br>
 [Bob Boss criado]
-
+<br>
+<br>
 <img width="720" height="1600" alt="Vagas Chegando" src="https://github.com/user-attachments/assets/bcf81194-f97d-4999-9590-a7dd79a6fffe" />
+<br>
 [Vagas Chegando]
-
+<br>
+<br>
 <img width="720" height="1600" alt="Vagas Chegando" src="https://github.com/user-attachments/assets/6ada63b5-b82d-49b5-8038-1a5c3f430fda" />
+<br>
 [Vagas Chegando]
 
 
